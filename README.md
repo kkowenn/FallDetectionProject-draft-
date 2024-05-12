@@ -1,6 +1,4 @@
 # SP1
-List for Implementing the System
-
 # 1. Create and Save the CNN Model
 
 1.1 Design the CNN Architecture: Define the layers, activation functions, and any regularization techniques.
