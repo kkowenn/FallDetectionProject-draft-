@@ -1,8 +1,8 @@
 from twilio.rest import Client
 
 # Twilio credentials (assuming these are correct and have permissions for WhatsApp messaging)
-account_sid = 'AC35fb884e3b9ed10c4d7f045e46bcadd1'
-auth_token = '2707610a5137f1750e031bf62c523ccc'
+account_sid = 
+auth_token = 
 client = Client(account_sid, auth_token)
 
 def send_whatsapp_message(message_body):
